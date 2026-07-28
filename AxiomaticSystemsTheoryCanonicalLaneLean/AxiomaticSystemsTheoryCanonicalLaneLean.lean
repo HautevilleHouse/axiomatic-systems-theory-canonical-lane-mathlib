@@ -1,0 +1,15 @@
+import AxiomaticSystemsTheoryCanonicalLaneLean.AdmissibleClass
+import AxiomaticSystemsTheoryCanonicalLaneLean.BridgeLemmas
+import AxiomaticSystemsTheoryCanonicalLaneLean.GateLemmas
+import AxiomaticSystemsTheoryCanonicalLaneLean.FormalLanguage
+import AxiomaticSystemsTheoryCanonicalLaneLean.DeductionSystem
+import AxiomaticSystemsTheoryCanonicalLaneLean.ModelTheory
+import AxiomaticSystemsTheoryCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace AxiomaticSystemsTheoryCanonicalLaneLean
+
+-- Root module: imports all components.
+
+end AxiomaticSystemsTheoryCanonicalLaneLean
+end HautevilleHouse
